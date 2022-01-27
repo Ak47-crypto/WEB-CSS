@@ -1,0 +1,79 @@
+h1{font-family: sedgwick ave;
+    
+ 
+
+}
+h3{ text-decoration: dotted underline;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-left: 550px;
+    text-shadow: 5px 5px 0px rgb(0, 153, 255);
+
+    color: black;}
+        p{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;}
+    #s1{
+        background-color: rgb(0, 153, 255);
+        margin-top: 100px;
+    }
+    .odd{
+        color: black;
+    }
+    #p3{
+        font-size: large;
+        font-style: italic;
+        float:inline-end;
+    }
+    nav{
+        border-style:solid;
+        padding: 50px;
+        text-align: center;
+       
+    }
+
+   #s4{
+       border-style: inset;
+       border-color: rgb(105, 105, 216);
+       padding: 30px;
+       margin-left: 30%;
+       margin-right: 30%;
+       margin-top:50px;
+   } 
+
+   body{
+       background-image: url(ddddd.JPG);
+       background-repeat: no-repeat;
+       background-attachment: fixed;
+       background-position: center;
+       background-size: cover;
+   }
+
+  a:link{
+      color:white;
+      background-color: black;
+      font-family: sedgwick ave;
+    
+  } 
+  a:visited{
+      color:rgb(105, 105, 216);
+  }
+  a:hover{
+      color: rgb(250, 129, 250);
+  }
+  a:active{
+      color: rgb(74, 87, 199);
+  }
+
+  button:hover{
+      color: black;
+      
+  }
+
+  li:nth-child(even){
+      background-color:rgb(148, 42, 130);
+  }
+  
+  li:nth-child(odd){
+    background-color:rgb(79, 23, 151);
+}
+  
